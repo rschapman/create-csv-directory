@@ -1,4 +1,5 @@
-Create CSV from Directory Script Useful for outputting a CSV files of any directory passed to it.>
+    Create CSV from Directory Script Useful for outputting a CSV files 
+    of any directory passed to it.
     Copyright (C) 2012  Rob Chapman
 
     This program is free software: you can redistribute it and/or modify
